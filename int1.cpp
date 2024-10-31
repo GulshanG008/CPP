@@ -7,6 +7,6 @@ int main(){
     int y;
     cout << "Enter an integer: " <<endl;
     cin >> y;
-    cout << "The  enteredd integer is:" <<y << endl;
+    cout << "The  entered integer is:" <<y << endl;
     return 0;
 }
