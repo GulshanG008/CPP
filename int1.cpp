@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int x;
-    x = 3;
+    x = 1602;
     cout << "The number is: " << x <<endl;
     int y;
     cout << "Enter an integer: " <<endl;
